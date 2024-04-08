@@ -13,4 +13,7 @@
 [XQUARE](https://github.com/team-xquare/xquare-iOS)
   * [SemicolonDesign_iOS](https://github.com/semicolondsm/SemicolonDesign_iOS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeong525&layout=compact)](https://github.com/2yev1n/github-readme-stats)
+## Projects
+  * [Yuseong-AllowancePayments](https://github.com/Yuseong-AllowancePayments/Yuseong_AllowancePayments_iPadOS)
+  * [kim-il-jeong](https://github.com/team-nk/kim-il-jeong-ios)
+  * [xquare_design_system](https://github.com/team-xquare/xquare-design-system-iOS)
