@@ -4,6 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong525)](https://github.com/juyeong525/github-readme-stats)
 
 <a href="https://www.instagram.com/juy_06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+
 <a target="_blank"><img src="https://img.shields.io/badge/p01063283516
                     @gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 ## Projects
